@@ -4,7 +4,7 @@ public class Main {
 
         persona.setEdad(54);
         persona.setNombre("Alejandro");
-        persona.setTelefono("55-3126-0088");
+        persona.setTelefono("55-3126-5528");
 
         System.out.println(persona.getEdad());
         System.out.println(persona.getNombre());
